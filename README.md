@@ -6,7 +6,7 @@
 |---|---|
 | Kelas | B |
 | Kelompok | 4 |
-| Topik Proyek | Monitoring Barrier Gate |
+| Topik Proyek | Monitoring Parkir (counter)|
 
 ---
 
