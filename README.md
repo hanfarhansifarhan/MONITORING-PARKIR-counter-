@@ -27,8 +27,8 @@
 
 **Monitoring Barrier Gate (MBG)** merupakan sistem parkir otomatis berbasis mikrokontroler yang dirancang untuk membantu proses pemantauan dan pengendalian akses kendaraan secara otomatis pada area parkir. Sistem ini dikembangkan menggunakan **Arduino/ESP32** dengan memanfaatkan sensor ultrasonik **HC-SR04** untuk mendeteksi keberadaan kendaraan pada pintu masuk maupun area parkir.
 
-Sistem bekerja secara real-time dengan membaca jarak kendaraan melalui sensor ultrasonik, kemudian mengontrol **servo motor** sebagai palang pintu otomatis. Informasi jumlah slot parkir yang tersedia ditampilkan melalui **LCD 16x2**, sehingga pengguna dapat mengetahui kondisi parkir secara langsung.
+Sistem ini bekerja secara real-time dengan membaca jarak kendaraan melalui sensor ultrasonik, kemudian mengontrol **servo motor** sebagai palang pintu otomatis. Untuk informasi jumlah slot parkir yang tersedia ditampilkan melalui **LCD 16x2**, sehingga pengguna dapat mengetahui kondisi parkir secara langsung.
 
 Apabila kapasitas parkir telah penuh, sistem akan memberikan peringatan melalui **buzzer** serta menampilkan notifikasi bahwa area parkir tidak tersedia. Sebaliknya, jika masih terdapat slot kosong, palang pintu akan terbuka secara otomatis agar kendaraan dapat masuk.
 
-Proyek ini bertujuan untuk meningkatkan efisiensi pengelolaan parkir, mengurangi antrean kendaraan, serta meminimalkan pengawasan manual dengan memanfaatkan sistem otomatis berbasis sensor dan mikrokontroler. :contentReference[oaicite:0]{index=0}
+Proyek ini bertujuan untuk meningkatkan efisiensi dalam pengelolaan parkir, mengurangi antrean kendaraan, serta meminimalkan pengawasan manual dengan memanfaatkan sistem otomatis berbasis sensor dan mikrokontroler. :contentReference[oaicite:0]{index=0}
