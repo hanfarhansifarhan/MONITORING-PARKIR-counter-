@@ -14,11 +14,12 @@
 
 | No | Nama | NIM |
 |---|---|---|
-| 1 | Muhammad Raihan Izzuddin Ismadi | H1H024056 |
-| 2 | Farhan Nur Sahid | H1H024057 |
-| 3 | Reva Aura Ramadhani | H1H024059 |
-| 4 | Ahmadin Irfan Fauzi | H1H024060 |
-| 5 | Ramandhanu Isnaera Ahnaf Wibawa | H1H024061 |
+| 1 | Finda Wulan Febrianti| H1H024055 |
+| 2 | Muhammad Raihan Izzuddin Ismadi | H1H024056 |
+| 3 | Farhan Nur Sahid | H1H024057 |
+| 4 | Reva Aura Ramadhani | H1H024059 |
+| 5 | Ahmadin Irfan Fauzi | H1H024060 |
+| 6 | Ramandhanu Isnaera Ahnaf Wibawa | H1H024061 |
 
 ---
 
